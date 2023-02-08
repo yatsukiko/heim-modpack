@@ -9,10 +9,3 @@ valheim_Data/
 BepInEx/LogOutput.log
 BepInEx/cache/chainloader_typeloader.dat
 BepInEx/cache/harmony_interop_cache.dat
-BepInEx/config/BepIn.Sarcen.FarmGrid.cfg
-BepInEx/config/BepInEx.cfg
-BepInEx/config/CW_Jesse.BetterNetworking.cfg
-BepInEx/config/Raelaziel.OdinHorse.cfg
-BepInEx/config/Therzie.Warfare.cfg
-
-
