@@ -1,0 +1,546 @@
+[Message:   BepInEx] BepInEx 5.4.19.0 - valheim (2/6/2023 11:16:34 PM)
+[Info   :   BepInEx] Running under Unity v2020.3.33.9525882
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.19.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 27 plugins to load
+[Info   :   BepInEx] Loading [PlantEverything 1.13.0]
+[Info   :   BepInEx] Loading [Craft From Containers 3.0.1]
+[Info   :   BepInEx] Loading [FarmGrid 0.2.0]
+[Info   :   BepInEx] Loading [ComfyAddAllFuel 1.7.0]
+[Info   :   BepInEx] Loading [Jotunn 2.10.4]
+[Info   :    Jotunn] Initializing LocalizationManager
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing CreatureManager
+[Info   :    Jotunn] Initializing ZoneManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing KeyHintManager
+[Info   :    Jotunn] Initializing NetworkManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Initializing RenderManager
+[Info   :    Jotunn] Initializing MinimapManager
+[Info   :    Jotunn] Initializing UndoManager
+[Info   :    Jotunn] Jötunn v2.10.4 loaded successfully
+[Info   :   BepInEx] Loading [ModSettings 0.0.1]
+[Info   :   BepInEx] Loading [Use Equipment in Water 0.2.3]
+[Info   :   BepInEx] Loading [VNEI 0.8.2]
+[Info   :   BepInEx] Loading [MultiplayerTweaks 0.4.4]
+[Info   :MultiplayerTweaks] Initializing MultiplayerTweaks!
+[Info   :   BepInEx] Loading [Better Networking 2.1.1]
+[Info   :   BepInEx] Loading [Instantly Destroy Boats and Carts 1.0.3]
+[Info   :   BepInEx] Loading [Better Trader Remake 2.2.7]
+[Info   :Digitalroot] Trader's coins were loaded from world Unknown_BetterTrader.dat file with a value of 2000
+[Info   :   BepInEx] Loading [BetterUI 2.4.1]
+[Info   :   BepInEx] Loading [HoneyPlus 5.1.2]
+[Info   :HoneyPlus.HoneyPlus] Loaded asset bundle: honeyplusassets (UnityEngine.AssetBundle)
+[Info   :HoneyPlus.HoneyPlus] Loaded Piece: piece_apiary
+[Info   :HoneyPlus.HoneyPlus] Loaded Piece: apiary_ext1
+[Info   :HoneyPlus.HoneyPlus] Loaded Piece: apiary_ext2
+[Info   :HoneyPlus.HoneyPlus] Loaded Piece: apiary_ext3
+[Info   :HoneyPlus.HoneyPlus] Loaded Piece: apiary_ext4
+[Info   :HoneyPlus.HoneyPlus] Loaded recipes list
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyCookedMeat
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyCookedDeer
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyCookedNeck
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyTeriyakiSalmon
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneySausages
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneySerpentMeat
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyMushroomSoup
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyTeriyakiSalmonWrap
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyCookedWolf
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: OdinsDelight
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyYellowStewLesser
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyBread
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyCookedLox
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyDessertPieUncooked
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyMeadBaseSpeed
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyCookedHare
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyCookedSeeker
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyMushroomStew
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyYellowStew
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyHarePieUncooked
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyMeadBaseDamage
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyNeckJerky
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyDeerJerky
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyLoxJerky
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyCooked
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyDessertPie
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyHarePie
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyMeadSpeed
+[Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyMeadDamage
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
+[Info   :   BepInEx] Loading [Fermenter Percentage 1.0.0]
+[Info   :   BepInEx] Loading [Better Pickup Notifications 1.3.1]
+[Info   :   BepInEx] Loading [OdinHorse 1.1.0]
+[Info   : Unity Log] 02/08/2023 19:25:18: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:18: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:18: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:18: Loaded localization CSV:localization_extra language:English
+
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.1.1]
+[Info   :   BepInEx] Loading [Minimal Status Effects 1.0.3]
+[Info   :   BepInEx] Loading [Enhuddlement 1.0.0]
+[Info   :   BepInEx] Loading [AutoRepair 5.4.1600]
+[Info   :   BepInEx] Loading [Warfare 1.3.4]
+[Info   :   BepInEx] Loading [Adventure Backpacks 1.6.0]
+[Info   :   BepInEx] Loading [Trash Items Mod 1.2.5]
+[Info   :Trash Items Mod] TrashItems Loaded!
+[Info   :   BepInEx] Loading [ValheimCuisine 1.0.43]
+[Info   :   BepInEx] Loading [XPortal 1.2.2]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 02/08/2023 19:25:37: Starting to load scene:start
+
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+ConnectionPoolClass+KskLiVacritPsLuBSbRJJeCDludr.⁭‫⁫‎⁭‎​‬⁭​‌⁮‍⁭‏⁬⁪​‎‭⁪‮‍⁬‬⁫‪‎⁭‭‭‮‍‬‬‍‬⁯‍⁫‮ (System.Type , System.String , System.Reflection.BindingFlags ) (at <0c765476319c442caa481c65be9745d2>:0)
+ConnectionPoolClass+KskLiVacritPsLuBSbRJJeCDludr.MoveNext () (at <0c765476319c442caa481c65be9745d2>:0)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <c9fb31c2eee14ce4aeb36e4c61e154d8>:0)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+ConnectionPoolClass:RunComposer(MonoBehaviour, IEnumerator)
+ConnectionPoolClass:PushComposer()
+BepInEx.ThreadingHelper:Update()
+
+[Info   : Unity Log] 02/08/2023 19:25:37: Using steam_appid.txt
+
+[Info   : Unity Log] 02/08/2023 19:25:37: Using steam APPID:892970
+
+[Info   : Unity Log] 02/08/2023 19:25:37: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 02/08/2023 19:25:43: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:43: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:43: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:43: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:43: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:43: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:44: Steam initialized, persona:yatsukiko
+
+[Info   : Unity Log] 02/08/2023 19:25:44: PlayFab custom ID set to "Steam_76561198242099594"
+
+[Info   : Unity Log] 02/08/2023 19:25:44: Using default prefs
+
+[Info   : Unity Log] 02/08/2023 19:25:44: Valheim version:0.213.4
+
+[Info   : Unity Log] 02/08/2023 19:25:44: Worldgenerator version setup:2
+
+[Info   :Jotunn.Managers.CommandManager] Adding 5 commands to the Console
+[Info   : Unity Log] 02/08/2023 19:25:44: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] 02/08/2023 19:25:45: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:45: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:45: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:45: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:45: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:45: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:45: Unpatching all 'MK_BetterUI' patches on EnemyHud.Awake
+
+[Info   : Unity Log] 02/08/2023 19:25:45: Unpatching all 'MK_BetterUI' patches on EnemyHud.LateUpdate
+
+[Info   : Unity Log] 02/08/2023 19:25:45: Unpatching all 'MK_BetterUI' patches on EnemyHud.ShowHud
+
+[Info   : Unity Log] 02/08/2023 19:25:45: Unpatching all 'MK_BetterUI' patches on EnemyHud.UpdateHuds
+
+[Warning: Unity Log] 02/08/2023 19:25:45: Missing audio clip in music respawn
+
+[Info   : Unity Log] 02/08/2023 19:25:45: Checking for installed DLCs
+
+[Info   : Unity Log] 02/08/2023 19:25:45: DLC:beta installed:False
+
+[Info   :Jotunn.Managers.InputManager] Registering 6 custom inputs
+[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
+[Info   : Unity Log] 02/08/2023 19:25:46: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 02/08/2023 19:25:46: Loaded localization CSV:localization_extra language:English
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Info   :Jotunn.Managers.ItemManager] Adding 29 custom items to the ObjectDB
+[Info   : Unity Log] 02/08/2023 19:25:48: Vis equip model set to 1
+
+[Info   : Unity Log] 02/08/2023 19:25:48: Vis equip model set to 1
+
+[Info   : Unity Log] 02/08/2023 19:25:48: Sending PlayFab login request (attempt 1)
+
+[Info   : Unity Log] 02/08/2023 19:25:48: Ticket is System.Byte[] of length 369
+
+[Info   : Unity Log] 02/08/2023 19:25:48: Session auth respons callback
+
+[Info   : Unity Log] 02/08/2023 19:25:48: Starting music menu
+
+[Info   : Unity Log] 02/08/2023 19:25:48: UI Group status changed Menu = True
+
+[Info   : Unity Log] 02/08/2023 19:25:49: PlayFab logged in as "Steam_76561198242099594"
+
+[Info   : Unity Log] 02/08/2023 19:25:49: PlayFab local entity ID is AC58F0C290979FAC
+
+[Info   : Unity Log] 02/08/2023 19:25:51: UI Group status changed Menu = True
+
+[Info   :Jotunn.Managers.InputManager] Registering 6 custom inputs
+[Info   : Unity Log] 02/08/2023 19:26:07: Current res 1920x1080     1920x1027
+
+[Info   : Unity Log] 02/08/2023 19:26:07: UI Group status changed Menu = False
+
+[Info   : Unity Log] 02/08/2023 19:26:07: FOund selected Settings
+
+[Info   : Unity Log] 02/08/2023 19:26:08: FOund selected Ok
+
+[Info   : Unity Log] 02/08/2023 19:26:08: UI Group status changed Menu = True
+
+[Info   : Unity Log] 02/08/2023 19:26:08: FOund selected Start game
+
+[Info   : Unity Log] 02/08/2023 19:26:08: show character selection
+
+[Info   : Unity Log] 02/08/2023 19:26:12: OnCharacterStart
+
+[Info   : Unity Log] 02/08/2023 19:26:13: Got dns entries: 1
+
+[Info   : Unity Log] 02/08/2023 19:26:13: Got dns entries: 1
+
+[Info   : Unity Log] 02/08/2023 19:26:13: PlayFab lobby matching search filter 'string_key10 eq '10.0.0.2:2456' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 02/08/2023 19:26:15: PlayFab lobby matching search filter 'string_key10 eq '83.24.195.220:2456' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 02/08/2023 19:26:17: Added server with name 10.0.0.2:2456 to server list
+
+[Info   : Unity Log] 02/08/2023 19:26:18: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:19: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:19: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:19: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:19: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:20: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:20: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:20: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:20: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:21: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:21: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:21: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:21: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:22: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:22: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:22: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:22: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:23: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:23: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:23: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 02/08/2023 19:26:23: PlayFab lobby matching search filter 'string_key10 eq '10.0.0.2:2456' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 02/08/2023 19:26:23: Determined backend of dedicated server to be Steamworks
+
+[Info   : Unity Log] 02/08/2023 19:26:23: Loading main scene
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Cloud Save: 135 bytes. /serverlist/favorite.new
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Steam writing file chunks 1 / 1, (135 bytes)
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Steam Cloud Move: 135 bytes. /serverlist/favorite -> /serverlist/favorite.old
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Steam writing file chunks 1 / 1, (135 bytes)
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Steam Cloud Move: 135 bytes. /serverlist/favorite.new -> /serverlist/favorite
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Steam writing file chunks 1 / 1, (135 bytes)
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Cloud Save: 135 bytes. /serverlist/recent.new
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Steam writing file chunks 1 / 1, (135 bytes)
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Steam Cloud Move: 135 bytes. /serverlist/recent -> /serverlist/recent.old
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Steam writing file chunks 1 / 1, (135 bytes)
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Steam Cloud Move: 135 bytes. /serverlist/recent.new -> /serverlist/recent
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Steam writing file chunks 1 / 1, (135 bytes)
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Steam initialized, persona:yatsukiko
+
+[Info   : Unity Log] 02/08/2023 19:26:24: PlayFab custom ID set to "Steam_76561198242099594"
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Using default prefs
+
+[Info   :Jotunn.Managers.CommandManager] Adding 5 commands to the Console
+[Info   : Unity Log] 02/08/2023 19:26:24: Loading player profile yatsume
+
+[Info   : Unity Log] 02/08/2023 19:26:24: isModded: True
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Zonesystem Awake 1915
+
+[Info   : Unity Log] 02/08/2023 19:26:24: DungeonDB Awake 1915
+
+[Info   : Unity Log] 02/08/2023 19:26:24: Steam initialized, persona:yatsukiko
+
+[Info   :Digitalroot] Trader's coins were saved to world Unknown_BetterTrader.dat file with a value of 2000
+[Info   :Digitalroot] Trader's coins were loaded from world Unknown_BetterTrader.dat file with a value of 2000
+[Info   :Jotunn.Managers.PrefabManager] Adding 38 custom prefabs to the ZNetScene
+[Info   : Unity Log] 02/08/2023 19:26:25: Audioman already exist, destroying self
+
+[Info   : Unity Log] 02/08/2023 19:26:25: Checking for installed DLCs
+
+[Info   : Unity Log] 02/08/2023 19:26:25: DLC:beta installed:False
+
+[Info   :Jotunn.Managers.ItemManager] Adding 29 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 26 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 6 custom item conversions
+[Info   :   Warfare] ODB Disabling recipe for Battleaxe
+[Info   :   Warfare] ODB Disabling recipe for CapeLox
+[Info   :   Warfare] ODB Disabling recipe for FistFenrirClaw
+[Info   :Jotunn.Managers.PieceManager] Adding 5 custom pieces to the PieceTables
+[Info   :HoneyPlus.HoneyPlus] Changed Recipe: BoarJerky
+[Info   :HoneyPlus.HoneyPlus] Changed Recipe: WolfJerky
+[Info   :HoneyPlus.HoneyPlus] Changed Item: Honey
+[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
+[Info   : Unity Log] 02/08/2023 19:26:32: Zonesystem Start 1915
+
+[Info   : Unity Log] 02/08/2023 19:26:34: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+
+[Info   : Unity Log] 02/08/2023 19:26:34: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+
+[Info   : Unity Log] 02/08/2023 19:26:34: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+
+[Info   : Unity Log] 02/08/2023 19:26:35: DungeonDB Start 1915
+
+[Info   : Unity Log] 02/08/2023 19:26:35: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 02/08/2023 19:26:35: Connecting to server with Steam-backend 10.0.0.2:2456
+
+[Message:Better Networking] Steamworks: k_ESteamNetworkingConfig_SendRateMin: 153600 -> 262144 (attempted 262144)
+[Message:Better Networking] Steamworks: k_ESteamNetworkingConfig_SendRateMax: 153600 -> 1048576 (attempted 1048576)
+[Info   : Unity Log] 02/08/2023 19:26:35: Starting to connect to 10.0.0.2:2456
+
+[Info   : Unity Log] Sending Warfare version 1.3.4 and minimum version 1.3.4 to the server.
+[Info   :ValheimCuisine] Invoking version check
+[Info   : Unity Log] Received PlantEverything version 1.13.0 and minimum version 1.13.0 from the server.
+[Info   : Unity Log] Received MultiplayerTweaks version 0.4.4 and minimum version 0.4.4 from the server.
+[Info   : Unity Log] Received OdinHorse version 1.1.0 and minimum version 1.1.0 from the server.
+[Info   : Unity Log] Received Raelaziel.OdinHorse PieceManager version 1.1.0 and minimum version 0.0.0 from the server.
+[Info   : Unity Log] Received Raelaziel.OdinHorse ItemManager version 1.1.0 and minimum version 0.0.0 from the server.
+[Info   : Unity Log] Received Raelaziel.OdinHorse CreatureManager version 1.1.0 and minimum version 0.0.0 from the server.
+[Info   :   Warfare] Version check, local: 1.3.4,  remote: 1.3.4
+[Info   :   Warfare] Received same version from server!
+[Info   : Unity Log] Received Warfare version 1.3.4 and minimum version 1.3.4 from the server.
+[Info   : Unity Log] Received Therzie.Warfare PieceManager version 1.3.4 and minimum version 0.0.0 from the server.
+[Info   : Unity Log] Received Therzie.Warfare ItemManager version 1.3.4 and minimum version 0.0.0 from the server.
+[Info   : Unity Log] Received Adventure Backpacks version 1.6.0 and minimum version 1.6.0 from the server.
+[Info   : Unity Log] Received vapok.mods.adventurebackpacks ItemManager version 1.6.0 and minimum version 0.0.0 from the server.
+[Info   :ValheimCuisine] Version check, local: 1.0.43,  remote: 1.0.43
+[Info   :ValheimCuisine] Received same version from server!
+[Info   : Unity Log] Received ValheimCuisine version 1.0.43 and minimum version 1.0.43 from the server.
+[Info   : Unity Log] Received XutzBR.ValheimCuisine ItemManager version 1.0.43 and minimum version 0.0.0 from the server.
+[Message:Better Networking] Compression possible with [server]
+[Info   : Unity Log] 02/08/2023 19:26:35: Exception in ZRpc::HandlePackage: System.Reflection.TargetParameterCountException: Number of parameters specified does not match the expected number.
+  at System.Reflection.MonoMethod.ConvertValues (System.Reflection.Binder binder, System.Object[] args, System.Reflection.ParameterInfo[] pinfo, System.Globalization.CultureInfo culture, System.Reflection.BindingFlags invokeAttr) [0x00016] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00011] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at ZRpc+RpcMethod`1[T].Invoke (ZRpc rpc, ZPackage pkg) [0x0001d] in <0a1a436be26b421bb46752e573a7aa2f>:0 
+  at (wrapper dynamic-method) ZRpc.DMD<ZRpc::HandlePackage>(ZRpc,ZPackage)
+  at ZRpc.Update (System.Single dt) [0x0003e] in <0a1a436be26b421bb46752e573a7aa2f>:0 
+
+[Message:Better Networking] Compression to [server]: True
+[Info   : Unity Log] 02/08/2023 19:26:35: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 02/08/2023 19:26:35: New connection
+
+[Info   : Unity Log] 02/08/2023 19:26:35: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 02/08/2023 19:26:35: Connected
+
+[Info   : Unity Log] 02/08/2023 19:26:35: Got connection SteamID 90169176644728846
+
+[Info   : Unity Log] 02/08/2023 19:26:35: Session auth respons callback
+
+[Message:Better Networking] Compression from [server]: True
+[Info   :Digitalroot] Received requestServerConfig
+[Info   :Digitalroot] Received config from server! The zPackage has a position of 0 and size of 246488
+[Info   : Unity Log] Received 102 configs and 0 custom values from the server for mod PlantEverything
+[Info   : Unity Log] Received 14 configs and 0 custom values from the server for mod MultiplayerTweaks
+[Info   : Unity Log] Received 16 configs and 0 custom values from the server for mod OdinHorse
+[Info   : Unity Log] Received 1 configs and 0 custom values from the server for mod Warfare
+[Info   : Unity Log] Received 103 configs and 0 custom values from the server for mod Adventure Backpacks
+[Info   : Unity Log] Received 1 configs and 0 custom values from the server for mod ValheimCuisine
+[Info   : Unity Log] Received 15 configs and 0 custom values from the server for mod Raelaziel.OdinHorse PieceManager
+[Info   : Unity Log] Received 70 configs and 0 custom values from the server for mod Therzie.Warfare PieceManager
+[Info   : Unity Log] Received 48 configs and 0 custom values from the server for mod vapok.mods.adventurebackpacks ItemManager
+[Info   : Unity Log] Received 1020 configs and 0 custom values from the server for mod XutzBR.ValheimCuisine ItemManager
+[Info   : Unity Log] Received 137 configs and 0 custom values from the server for mod Raelaziel.OdinHorse ItemManager
+[Info   : Unity Log] 02/08/2023 19:27:24: Session auth respons callback
+
+[Info   : Unity Log] Received 4875 configs and 0 custom values from the server for mod Therzie.Warfare ItemManager
+[Info   : Unity Log] Received 20 configs and 0 custom values from the server for mod Raelaziel.OdinHorse CreatureManager
+[Info   : Unity Log] 02/08/2023 19:27:25: VERSION check their:0.213.4  mine:0.213.4
+
+[Info   : Unity Log] 02/08/2023 19:27:25: Worldgenerator version setup:2
+
+[Info   : Unity Log] 02/08/2023 19:27:27: client got keys 2
+
+[Info   : Unity Log] 02/08/2023 19:27:27: client got location icons
+
+[Info   : Unity Log] 02/08/2023 19:27:27: Icons:1
+
+[Info   :Jotunn.Managers.SynchronizationManager+<AdminRPC_OnClientReceive>d__35] Received admin status from server: Admin
+[Info   : Unity Log] 02/08/2023 19:27:36: Unpacking compressed mapdata 8506
+
+[Info   : Unity Log] 02/08/2023 19:27:37: Starting respawn
+
+[Info   :XPortal.RPC] Resyncing because: -250250717 has joined the game
+[Info   :XPortal.KnownPortalsManager] Known portals updated. Total: 0
+[Info   : Unity Log] 02/08/2023 19:27:37: tip:$loadscreen_tip12
+
+[Info   : Unity Log] 02/08/2023 19:27:41: Force generaeting hmap (-192.0, 0.0, -320.0)
+
+[Info   : Unity Log] 02/08/2023 19:27:41: Force generaeting hmap (-128.0, 0.0, -384.0)
+
+[Info   : Unity Log] 02/08/2023 19:27:41: Force generaeting hmap (-384.0, 0.0, -320.0)
+
+[Info   : Unity Log] 02/08/2023 19:27:45: Spawned after 8.019994
+
+[Info   : Unity Log] 02/08/2023 19:27:45: Vis equip model set to 1
+
+[Info   : Unity Log] 02/08/2023 19:27:45: Skipping unloading unused assets
+
+[Info   :      VNEI] Index items and recipes
+[Info   :      VNEI] Loaded 1343 items and 1918 recipes
+[Info   : Unity Log] 02/08/2023 19:27:46: Minimap: Adding unique location (-66.0, 83.7, 4.7)
+
+[Info   : Unity Log] 02/08/2023 19:27:48: Starting music meadows
+
+[Info   : Unity Log] 02/08/2023 19:27:48: Resumed music meadows at 0
+
+[Info   : Unity Log] 02/08/2023 19:27:56: Setting selected recipe 0
+
+[Info   : Unity Log] 02/08/2023 19:27:56: UI Group status changed root = True
+
+[Info   : Unity Log] 02/08/2023 19:27:56: UI Group status changed Player = True
+
+[Info   : Unity Log] 02/08/2023 19:28:02: UI Group status changed MenuRoot = False
+
+[Info   :Digitalroot] Trader's coins were saved to world Unknown_BetterTrader.dat file with a value of 2000
+[Info   : Unity Log] 02/08/2023 19:28:04: Game - OnApplicationQuit
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Shuting down
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Uncompressed size 8388776
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Compressed size 8506
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Cloud Save: 20951 bytes. /characters/yatsume.fch.new
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Steam writing file chunks 1 / 1, (20951 bytes)
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Steam Cloud Move: 20951 bytes. /characters/yatsume.fch -> /characters/yatsume.fch.old
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Steam writing file chunks 1 / 1, (20951 bytes)
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Steam Cloud Move: 20951 bytes. /characters/yatsume.fch.new -> /characters/yatsume.fch
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Steam writing file chunks 1 / 1, (20951 bytes)
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Considering autobackup. World time: 74.62, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 02/08/2023 19:28:04: ZNet Shutdown
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Unloading unused assets
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Sending disconnect msg
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Sent to 90169176644728846
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Released session ticket
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Disposing socket
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Closing socket 90169176644728846
+
+[Info   : Unity Log] 02/08/2023 19:28:04:   send queue size:0
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Last socket, unregistering callback
+
+[Info   : Unity Log] 02/08/2023 19:28:04: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Disposing socket
+
+[Info   : Unity Log] 02/08/2023 19:28:04: Last socket, unregistering callback
+
+[Info   : Unity Log] 02/08/2023 19:28:04: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 02/08/2023 19:28:10: FOund selected Button_yes
+
+[Info   : Unity Log] 02/08/2023 19:28:10: ZNet OnDestroy
+
+[Info   : Unity Log] 02/08/2023 19:28:10: Net scene destroyed
+
+[Warning: Unity Log] 02/08/2023 19:28:10: Local player destroyed
+
+[Info   : Unity Log] 02/08/2023 19:28:10: Steam manager on destroy
+
